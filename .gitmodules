@@ -1,15 +1,19 @@
 [submodule "Frameworks/Auto Hyperlinks"]
 	path = Frameworks/Auto Hyperlinks
-	url = https://github.com/Codeux-Software/Auto-Hyperlinks.git
+	url = https://github.com/Xjs/Auto-Hyperlinks.git
+	branch = arm64
 [submodule "Frameworks/Cocoa Extensions"]
 	path = Frameworks/Cocoa Extensions
-	url = https://github.com/Codeux-Software/Cocoa-Extensions.git
+	url = https://github.com/Xjs/Cocoa-Extensions.git
+	branch = arm64
 [submodule "Frameworks/Encryption Kit"]
 	path = Frameworks/Encryption Kit
-	url = https://github.com/Codeux-Software/Encryption-Kit.git
+	url = https://github.com/Xjs/Encryption-Kit.git
+	branch = homebrew
 [submodule "Frameworks/Static Libraries"]
 	path = Frameworks/Static Libraries
-	url = https://github.com/Codeux-Software/Static-Libraries.git
+	url = https://github.com/Xjs/Static-Libraries.git
+	branch = homebrew
 [submodule "Frameworks/Apple Receipt Loader"]
 	path = Frameworks/Apple Receipt Loader
 	url = https://github.com/Codeux-Software/Apple-Receipt-Loader.git
